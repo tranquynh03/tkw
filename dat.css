@@ -1,0 +1,29 @@
+
+  
+  footer {
+    background-color: #1b0b4e;
+    color: white;
+    padding: 30px 20px;
+    margin-top: 40px;
+  }
+  
+  .footer-cols {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  
+  .footer-cols div {
+    flex: 1;
+    min-width: 200px;
+  }
+  
+  .footer-cols h3 {
+    color: #71caf3;
+    margin-top: 0;
+    border-bottom: 1px solid #71caf3;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+  }
+  
